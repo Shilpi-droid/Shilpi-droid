@@ -1,4 +1,8 @@
-![logo](https://github.com/Shilpi-droid/Shilpi-droid/blob/main/banner.gif)
+/*![logo](https://github.com/Shilpi-droid/Shilpi-droid/blob/main/banner.gif)*/
+<div align="center">
+<img align="center" alt="coding" width="400" src="https://github.com/Shilpi-droid/Shilpi-droid/blob/main/banner.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Shilpi</h1>
 <h3 align="center">A flutter developer</h3>
 
