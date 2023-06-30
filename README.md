@@ -1,4 +1,3 @@
-/*![logo](https://github.com/Shilpi-droid/Shilpi-droid/blob/main/banner.gif)*/
 <div align="center">
 <img align="center" alt="coding" width="400" src="https://github.com/Shilpi-droid/Shilpi-droid/blob/main/banner.gif">
 </div>
