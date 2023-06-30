@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="coding" width="400" src="https://github.com/Shilpi-droid/Shilpi-droid/blob/main/banner.gif">
+<img align="center" alt="coding" width="400" src="https://github.com/HewaliGogoi">
 </div>
 
 <h1 align="center">Hi 👋, I'm Shilpi</h1>
