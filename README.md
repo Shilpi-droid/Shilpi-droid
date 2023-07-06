@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpi-droid&show_icons=true&locale=en" alt="shilpi-droid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpi-droid&" alt="shilpi-droid" /></p>### Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpi-droid&" alt="shilpi-droid" /></p>
 
 <!--
 **Shilpi-droid/Shilpi-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
